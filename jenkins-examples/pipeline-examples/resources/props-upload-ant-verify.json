@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "pattern": "XrayAssessment-1.0.jar",
+      "pattern": "/XrayAssessment-1.0.jar",
       "target": "libs-release-local",
       "props": "p1=v1;p2=v2"
     }
