@@ -33,7 +33,7 @@
       <dependency name="size" rev="latest.integration" conf="core->default" />
       <dependency name="find" rev="latest.integration" conf="core" />
       <dependency org="commons-cli" name="commons-cli" rev="1.0" conf="standalone->default" />
-      <dependency org="com.fasterxml.jackson.core" name="jackson-databind" rev="2.9.7"/>
+      <dependency org="com.fasterxml.jackson.core" name="jackson-databind" rev="2.9.7" conf="standalone->default" />
 
     </dependencies>
 </ivy-module>
